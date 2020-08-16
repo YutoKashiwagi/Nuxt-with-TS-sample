@@ -1,5 +1,7 @@
 # nuxt-ts
 
+参考記事: https://qiita.com/azukiazusa/items/a50b1ffe05d9937a4db0
+
 ## Build Setup
 
 ```bash
